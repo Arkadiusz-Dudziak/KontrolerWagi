@@ -1,7 +1,7 @@
 # KontrolerWagi
 Aplikacja utworzona w ramach zajęć z Teleinformatycznych Systemów Mobilnych. <br/>
 Używając aplikacji można wspomagać kontrolę masy ciała. <br/>
-Aplikacja zawiera 4 ekrany:
+Aplikacja zawiera 4 widoki:
 1. widok startowy - pobranie od użytkownika wieku, płci i wzrostu, jest to ekran, który jest widoczny tylko przy pierwszym uruchomieniu
 2. widok główny - umożliwia wpisanie ile waży w danym dniu użytkownik oraz wyświetla obliczony wskaźnik BMI
 3. widok ustawień - umożliwia ustawienie dziennych powiadomień oraz zmianę informacji o użytkowniku (płeć, wiek, wzrost)
