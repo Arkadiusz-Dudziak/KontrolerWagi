@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KontrolerWagi</string>
+    <string name="settings">Ustawienia</string>
+    <string name="main">Główna</string>
+    <string name="chart">Wykresy</string>
+
+    <string name="enter_weight">Ile dziś ważysz?</string>
+    <string name="bmi">BMI: </string>
+    <string name="buttonOk_text">OK</string>
+    <string name="notification_text">Powiadomienia</string>
+    <string name="hours_hint">Wybierz godzinę</string>
+    <string name="age_hint">Ile masz lat?</string>
+    <string name="height_hint">Podaj wzrost w cm</string>
+    <string name="age_text">Wiek: </string>
+    <string name="height_text">Wzrost: </string>
+    <string name="confirm_text">Zatwierdź zmiany</string>
+    <string name="weight_hint">w kg</string>
+
+    <string name="women_text">Kobieta</string>
+    <string name="men_text">Mężczyzna</string>
+
+    <string name="welcome_text">Witaj!</string>
+    <string name="ok">OK</string>
+</resources>
